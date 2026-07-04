@@ -1,0 +1,4 @@
+dlp-agent.exe
+*.syso
+.idea/
+*.log
